@@ -11,7 +11,7 @@ class HZSSzepkoruakOsztaly:
         self.root = root
         self.conn_str = (
             "DRIVER={ODBC Driver 17 for SQL Server};"
-            "SERVER=172.16.11.60;"
+            "SERVER=localhost;"
             "DATABASE=szepkor2025t;"
             "UID=szepkor;"
             "PWD=Szep0625kor?;"
