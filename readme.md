@@ -15,6 +15,7 @@ Ezt a regisztrációs feladatot korábban egy régebbi szoftverrel és Excel-tá
 
 Korábban is foglalkoztam programozással, főként webes területen, azonban a Pythonnal most találkoztam először gyakorlati szinten.
 
+Mivel az adatbázis helyben érhető csak el, így a demo mappa tartalma prezentálja a futás közbeni állapotképeket és videót
 ## Modulok és a modulokban használt függvények
 
 ### Tanult modulok:

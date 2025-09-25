@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a274590-377b-4c31-acb9-e8ee2f69d53d" name="Changes" comment="adatbazis szerver">
-      <change afterPath="$PROJECT_DIR$/.idea/hzs_szepkoruak.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4a274590-377b-4c31-acb9-e8ee2f69d53d" name="Changes" comment="demo videó a program működéséről">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758801104678</updated>
-      <workItem from="1758801105801" duration="5208000" />
+      <workItem from="1758801105801" duration="6328000" />
     </task>
     <task id="LOCAL-00001" summary="hzs projektfeladat scriptnyelvek órára">
       <option name="closed" value="true" />
@@ -106,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758806434308</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="demo videó a program működéséről">
+      <option name="closed" value="true" />
+      <created>1758807062465</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758807062466</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,10 +121,11 @@
     <MESSAGE value="hzs projektfeladat scriptnyelvek órára" />
     <MESSAGE value="adatbazis atirasa localhostra" />
     <MESSAGE value="adatbazis szerver" />
-    <option name="LAST_COMMIT_MESSAGE" value="adatbazis szerver" />
+    <MESSAGE value="demo videó a program működéséről" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo videó a program működéséről" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/hzs_szepkoruak$main.coverage" NAME="main Coverage Results" MODIFIED="1758805628412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hzs_szepkoruak$main.coverage" NAME="main Coverage Results" MODIFIED="1758807297780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hzs_szepkoruak$hzs_szepkoruak_modul.coverage" NAME="hzs_szepkoruak_modul Coverage Results" MODIFIED="1758804372328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
